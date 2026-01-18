@@ -1,0 +1,5 @@
+{
+  "name": "Diep.js - Tank Battle Arena",
+  "description": "A high-performance Diep.io clone built with React and HTML5 Canvas, featuring procedural shapes, level-up systems, multiple tank classes, and smooth physics.",
+  "requestFramePermissions": []
+}
